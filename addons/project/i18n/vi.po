@@ -887,7 +887,7 @@ msgstr "Thẻ Quản trị"
 #. module: project
 #: model:ir.model,name:project.model_account_analytic_tag
 msgid "Analytic Tags"
-msgstr "Các thẻ Quản trị"
+msgstr "Thẻ Quản trị"
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project__analytic_account_id
@@ -1307,7 +1307,7 @@ msgstr "Cộng tác viên"
 #: model:ir.model.fields,field_description:project.field_project_project__collaborator_ids
 #, python-format
 msgid "Collaborators"
-msgstr "Các cộng tác viên"
+msgstr "Cộng tác viên"
 
 #. module: project
 #: model:ir.model,name:project.model_project_collaborator
@@ -1330,7 +1330,7 @@ msgstr "Mã Màu"
 #: model:ir.model.fields,field_description:project.field_project_project__commercial_partner_id
 #: model:ir.model.fields,field_description:project.field_project_task__commercial_partner_id
 msgid "Commercial Entity"
-msgstr "Đối tác Thương mại"
+msgstr "Thực thể Thương mại"
 
 #. module: project
 #. openerp-web
@@ -1510,7 +1510,7 @@ msgstr "Giai đoạn hiện tại của nhiệm vụ này"
 #. module: project
 #: model:ir.model.fields,field_description:project.field_project_project__alias_bounced_content
 msgid "Custom Bounced Message"
-msgstr "Tin nhắn Tùy chỉnh Bị trả lại"
+msgstr "Tin nhắn Trả lại Tùy Chỉnh"
 
 #. module: project
 #: code:addons/project/controllers/portal.py:0
